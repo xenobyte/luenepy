@@ -22,3 +22,7 @@ def fib(n):
     if n < 2:
         return n
     return pow((1, 1, 0), n - 1)[0]
+
+
+for i in range(50):
+    print(fib(i))

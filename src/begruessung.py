@@ -1,5 +1,5 @@
 #
-# BEDINGUNGEN
+# BEGRUESSUNG
 #
 
 

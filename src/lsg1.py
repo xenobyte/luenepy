@@ -14,4 +14,4 @@ def steuer(gehalt):
 
 gehalt = eval(input("Gehalt: "))
 steuern = steuer(gehalt)
-print(("Du zahlst: ", steuern))
+print("Du zahlst: ", steuern)
